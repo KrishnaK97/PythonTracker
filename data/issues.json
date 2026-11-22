@@ -1,0 +1,202 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "First issue is how to solve this issue tracker",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "solved",
+      "started_at": "2026-09-27 22:19:47",
+      "solved_at": "2026-09-27 22:20:33",
+      "solution": "Solve this issue by clicking on start timer and then marking it solved",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-27 22:19:47",
+          "2026-09-27 22:20:33"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Second issue to check",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "solved",
+      "started_at": "2026-09-27 22:20:55",
+      "solved_at": "2026-09-27 22:21:51",
+      "solution": "second issue solution good",
+      "root_cause": "solved second issue",
+      "sessions": [
+        [
+          "2026-09-27 22:20:55",
+          "2026-09-27 22:21:51"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Third issue to check",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "solved",
+      "started_at": "2026-09-27 22:21:07",
+      "solved_at": "2026-09-27 22:21:17",
+      "solution": "Solve third issue",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-27 22:21:07",
+          "2026-09-27 22:21:17"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "title": "What event.payload data carries in script of event handler in Data broker",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "active",
+      "started_at": "2026-09-27 23:39:59",
+      "solved_at": null,
+      "solution": "",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-27 23:39:59",
+          null
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "title": "New button not coming for adding playbook action in Activity Definition",
+      "description": "",
+      "category": "Other",
+      "priority": "High",
+      "status": "solved",
+      "started_at": "2026-09-28 12:43:57",
+      "solved_at": "2026-09-28 19:20:15",
+      "solution": "Created record using table of Playbook Action",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-28 12:43:57",
+          "2026-09-28 19:20:15"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Playbook action button not showing in playbook activity page.",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "solved",
+      "started_at": "2026-09-28 22:38:20",
+      "solved_at": "2026-09-28 23:43:01",
+      "solution": "Changed the playbook experience from Global to Insurance Suite. Removed all client conditions",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-28 22:38:20",
+          "2026-09-28 23:43:01"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "title": "What is the value of title used in client conditions of action assignment",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "active",
+      "started_at": "2026-09-28 23:41:23",
+      "solved_at": null,
+      "solution": "",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-28 23:41:23",
+          null
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Playbook mark complete Query not working on Task table",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "solved",
+      "started_at": "2026-09-29 18:04:20",
+      "solved_at": "2026-09-29 18:04:38",
+      "solution": "Module name of Task record was incorrect",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-09-29 18:04:20",
+          "2026-09-29 18:04:38"
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Why the query returned by time to effective graph in Q&B not giving 3 records for remaining_days_bucket = 22_PLUS_DAYS and tiv_band = HIGH",
+      "description": "IPS Quotes with remaining_days_bucket = 22_PLUS_DAYS and submission not empty = 35\nSubmissions (from 13 unique) with submission_detail.tiv_band = HIGH = 6\n\nIPS Quotes for the 6 filtered submissions = 11\nQuote & Bind cases for the 6 filtered submissions = 3",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "active",
+      "started_at": "2026-11-06 07:37:05",
+      "solved_at": null,
+      "solution": "",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-11-06 07:37:05",
+          null
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "title": "What 'getSubmissionIdsByRemainingDaysBucket' method is returning?",
+      "description": "",
+      "category": "Bug",
+      "priority": "Medium",
+      "status": "active",
+      "started_at": "2026-11-06 07:39:59",
+      "solved_at": null,
+      "solution": "",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-11-06 07:39:59",
+          null
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "title": "What is scripted REST Resource?",
+      "description": "",
+      "category": "Config/Env",
+      "priority": "Medium",
+      "status": "active",
+      "started_at": "2026-11-13 14:15:45",
+      "solved_at": null,
+      "solution": "",
+      "root_cause": "",
+      "sessions": [
+        [
+          "2026-11-13 14:15:45",
+          null
+        ]
+      ]
+    }
+  ]
+}
